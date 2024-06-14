@@ -17,8 +17,7 @@ spec:
       containers:
       - name: cont1
         image: prat1402/chucknorris:latest
-        ports:
-          - containerPort: 80
+        
 ---
 apiVersion: v1
 kind: Service
