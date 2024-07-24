@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
       - name: cont1
-        image: prat1402/train:latest
+        image: prat1402/tour:latest
         ports:
           - containerPort: 80
 ---
